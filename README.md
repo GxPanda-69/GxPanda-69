@@ -1,6 +1,6 @@
 ## Heyyy
 
-I go by the name GxPanda, I am a _~French~_ music producer and developper.
+I go by the name GxPanda, I am a _\~French~_ music producer and developper.
 
 ### My experience n stuff
 
