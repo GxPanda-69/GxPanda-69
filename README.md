@@ -16,7 +16,7 @@ idk
 
 ### My website
 
-You can visit my website (here)[https://gxpanda.xyz] !
+You can visit my website [here](https://gxpanda.xyz) !
 
 ...
 
