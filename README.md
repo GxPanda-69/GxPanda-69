@@ -1,16 +1,23 @@
-## Hi there 👋
+## Heyyy
 
-<!--
-**GxPanda-69/GxPanda-69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I go by the name GxPanda, I am a _~French~_ music producer and developper.
 
-Here are some ideas to get you started:
+### My experience n stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Roblox** developper since <u>2024</u>
+- **Python** developper since <u>the dawn of time kinda</u>
+- **Godot** developper since <u>2025</u>
+- **Node.js** developper since <u>2026</u> (and i've been ~~hating~~ loving it so far)
+- **Web** developper but not really since <u>the dawn of time kinda once again</u>
+
+### My big projects
+
+idk
+
+### My website
+
+You can visit my website (here)[https://gxpanda.xyz] !
+
+...
+
+Thank you for visiting my gh ig.
